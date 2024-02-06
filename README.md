@@ -5,7 +5,7 @@ Welcome to Donia Ahmed's profile!
 🔬🔬 i have experience in analysis field 
 💻iam now learning programming at almadrasa
 👨‍💻 As a  student, I'm constantly learning and exploring new technologies to improve my skills.
-💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+💬 Ask me about my experience with JavaScript, Git or anything related to web development.
 ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 Connect with Me :
